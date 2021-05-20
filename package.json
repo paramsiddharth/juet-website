@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "html5-marquee": "^0.2.0",
+    "normalize.css": "^8.0.1"
+  }
+}

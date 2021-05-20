@@ -1,0 +1,18 @@
+{
+  "name": "html5-marquee",
+  "description": "HTML5 marquee tag implementation in pure CSS3",
+  "version": "0.2.0",
+  "repository": "https://github.com/muchweb/html5-marquee",
+  "homepage": "http://html5marquee.com/",
+  "license": "GPL-3.0+",
+  "author": "muchweb <aleks@s-ko.net>",
+  "keywords": [
+    "html5",
+    "marquee"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^6.1.1",
+    "less": "^2.5.3",
+    "postcss-cli": "^2.3.2"
+  }
+}
